@@ -1,0 +1,105 @@
+.bg-white
+{
+	background-color: #fff;
+}
+
+.image-50X50
+{
+	width:150px;
+}
+.image-70
+{
+	width:70px;
+}
+.bg-grey
+{
+	background-color:rgba($black,.125);
+}
+.text-underlined 
+{
+	text-decoration:underline;
+	text-decoration-style:double;
+	text-decoration-width:3px;
+}
+
+.bg-dark
+{
+	background-color: $black;
+}
+
+.is-fullheight
+{
+	min-height: 100vh;
+}
+.icon-wrapper {
+	text-align:center;
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+.box{
+	padding:10px;
+	border: 2px solid rgba($black,.125);
+}
+
+.box-1{
+	padding:10px;
+	border: 1px solid rgba($black,.125);
+}
+
+.text-grey{
+	color:rgba($black,.135);
+}
+
+.img-small
+{
+	width: 40px;
+}
+.img-50{
+	height:50px;
+}
+
+.orange
+{
+	color:$orange;
+}
+
+.btn
+{
+	cursor:pointer;
+}
+
+.bg-light{
+	background-color:darken($white,4);
+}
+
+.text-secondary{
+	color: $brand-secondary !important;
+}
+
+
+.position-relative{
+	
+	position:relative;
+}
+
+.position-absolute{
+	position:absolute;
+}
+.top-0{
+	top:0;
+}
+
+.right-0{
+	right:0;
+}
+.right-1{
+	right:1em;
+}
+
+.bottom-0{
+	bottom:0;
+}
+
+.left-2{
+	left:2;
+}
